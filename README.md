@@ -67,6 +67,10 @@ O projeto está dividido em seções bem definidas para garantir **organização
   - Formulário funcional com integração externa (SheetMonkey)
   - Organização de arquivos e boas práticas de desenvolvimento front-end
 
+## 🔗 Links do Projeto Publicado
+
+👉 [Clique aqui para visualizar a página no ar](https://rid220903dasafiolandingpage.netlify.app/)
+👉 [Clique aqui para acessar o Repositório](https://github.com/Brunom-Oliveira/RID-220903_Desafio-Desenvolva-uma-Landing-Page)
 ---
 
 ## 👨‍💻 Desenvolvedor
