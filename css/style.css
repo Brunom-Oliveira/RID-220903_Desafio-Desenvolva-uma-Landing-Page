@@ -1,0 +1,123 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+#menusuperior {
+    background-image: url(./imagens/menusuperior.svg);
+    background-color: #303030;
+    background-size: cover;
+    background-position: center;
+    height: 475px;
+    width: 100%;
+    color: white;
+}
+
+#tituloMenuSuperior {
+    margin-top: 0px;
+    padding-top: 225px;
+    margin-left: 45px;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+#subtituloMenuSuperior {
+    margin-top: 0px;
+    margin-left: 45px;
+    line-height: 1.2;
+
+}
+
+#menuinferior {
+    background-color: #F9F9F9;
+    color: black;
+    height: 229px;
+    width: 100%;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.grande {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.pequeno {
+    line-height: 2.5;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.menuvalores {
+    font-size: 35px;
+    align-items: center;
+    margin: auto;
+    line-height: 0.5;
+}
+
+#conteudo {
+    background-color: white;
+    color: black;
+    padding: 150px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#imagemConteudo {
+    background-position: center;
+    max-width: 80%;
+    height: auto;
+    padding-left: 25%;
+}
+
+#cont-texto {
+    margin-top: 150px;
+    max-width: 100%;
+    height: auto;
+}
+
+#cont-titulo {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+#descricao {
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 25px;
+}
+
+#captura {
+    text-align: center;
+    background-image: url(/imagens/menusuperior.svg);
+}
+
+#titulo-captura {
+    font-size: 32px;
+    color: #FFFFFF;
+    padding-top: 75px;
+}
+
+input {
+    width: 508px;
+    height: 72px;
+    background-color: #FFFFFF;
+    margin: 15px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button {
+    width: 286px;
+    height: 74px;
+    margin: 15px;
+    margin-bottom: 50px;
+    background-color: #C07212;
+    color: #FFFFFF;
+    border: 0px;
+    border-radius: 5px;
+    font-weight: bolder;
+    cursor: pointer;
+}
