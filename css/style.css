@@ -79,12 +79,14 @@
 #cont-titulo {
     font-size: 50px;
     font-weight: 500;
+    width: 100%;
 }
 
 #descricao {
     font-size: 25px;
     font-weight: 350;
     margin-top: 25px;
+    width: 100%;
 }
 
 #captura {
